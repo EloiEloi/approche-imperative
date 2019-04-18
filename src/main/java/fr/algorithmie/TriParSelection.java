@@ -26,7 +26,6 @@ public class TriParSelection {
 			System.out.println(array2[i]);
 		}
 	
-		
 	}
 
 }

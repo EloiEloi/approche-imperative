@@ -10,7 +10,10 @@ public class FirstLast {
 		
 		if (array2.length >= 1 && array2[0] == array2[array2.length-1]){
 			bool = true;
+			
 		} 
+		
+		System.out.println("verification = " + bool);
 		
 	}
 

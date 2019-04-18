@@ -11,7 +11,13 @@ public class Exercice2 {
 		System.out.println(tab[0].length);
 		System.out.println(tab[1].length);
 		System.out.println(tab[0][0]);
+		
+		
+		
+		
 		System.out.println(tab[tab.length-1][tab[tab.length-1].length-1]);
+		
+		
 	}
 	
 }

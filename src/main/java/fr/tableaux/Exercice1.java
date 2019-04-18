@@ -11,6 +11,7 @@ public class Exercice1 {
 		for (int i = 0; i < entiers.length; i++) {
 			if (entiers[i] == 5) {
 				System.out.println("index de l'entier 5 = " + i);
+				break;
 			}
 		}
 		entiers[4] = 8;
